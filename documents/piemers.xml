@@ -1,0 +1,14 @@
+<telefons>
+	<brand>OnePlus</brand>
+	<model>5</model>
+	<color unit="phone">black</color>
+	<color unit="cover">red</color>
+	<op>
+		<name>Android</name>
+		<version>9.0</version>
+	</op>
+	<memory>
+		<ram>6GB</ram>
+		<rom>64GB</rom>
+	</memory>
+</telefons>
